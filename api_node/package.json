@@ -1,0 +1,9 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "API Node.js para la práctica de Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
